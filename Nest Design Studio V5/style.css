@@ -1348,3 +1348,7 @@ header.solid {
   .bip-col { min-height: 300px; }
   .bip-heading { padding: 0 16px 32px; }
 }
+
+@media (max-width: 768px) {
+    #cursor { display: none; }
+}
